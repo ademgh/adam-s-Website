@@ -10,7 +10,7 @@
   }
   .title {
     font-weight: bold;
-    color: rgba(176, 196, 222, 0.452);
+    color: rgba(203 226 255 / 93%);
   }
   h1 {
     color: rgb(0, 0, 0);
@@ -37,7 +37,7 @@
     color: #000000;
   }
   a {
-    color: seagreen;
+    color: #80ab93;
   }
   a:hover {
     color: darkgreen;
